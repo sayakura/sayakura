@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $('.slider').slider({indicators:false,full_width: true,height:390,transition:1000});
+  $('.slider').slider({indicators:false,full_width: true,height:400,transition:1000});
   
 });
 $('#contact').mouseenter(function(){
