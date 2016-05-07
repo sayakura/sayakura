@@ -1,0 +1,50 @@
+
+
+.selfie{
+    height:220px;
+    width:220px;
+    border-radius: 100%;
+    background-color: #9e9e9e;
+    margin-top: 40px;
+    margin-right: 0px;
+    z-index: 99;
+}
+u{
+    -moz-text-decoration-color: #424242;
+    text-decoration-color: #424242;
+}
+.profile_name{
+    padding-top: 10%;
+}
+#iconworld{
+    font-size:280px;
+    margin-top: -30px;
+    
+}
+.profile_background{
+     height:420px;
+     width:100%;
+     background-image: url("/client/img/pic0.jpg" );
+     text-align: center;
+}
+body{
+     background-color: rgb(240,240,240);
+}
+.lang-logo{
+     height:100px;
+     width: 100px;
+}
+
+.collection{
+    border:0;
+}
+#posts{
+    border-bottom-width: 0px;
+}
+#blog{
+    width: 95%;
+    margin-left: 2.5%;
+}
+.programming_language{
+    font-weight: lighter;
+}
