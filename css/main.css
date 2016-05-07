@@ -47,3 +47,6 @@ body{
 #contact{
     height: auto;
 }
+#name{
+    font-weight: lighter;
+}
