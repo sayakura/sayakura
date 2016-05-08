@@ -14,7 +14,7 @@ var postss = [
         title:"HAHA2",
         content:"Description",
         likes: 0,
-        comments: ["a","b"],
+        comments: null,
         published_date: null,
     }
 ];
@@ -25,17 +25,20 @@ app.controller('blogCtrl',["$scope","$firebaseArray",
  
 
     var ref = new Firebase("https://personalpage.firebaseio.com/posts");
-    //$scope.posts = $firebaseArray(ref);
-    $scope.posts = postss;
+    $scope.allcomments = $firebaseArray(ref);
+    $scope.comment = {};
+ 
+   
     
-
-    ref.limitToLast(10).on("child_added",function(data){
-      $scope.lastestten = data.val();
-    });
-    
-
-
-
-
+    $scope.submit = function(){
+      if($scope.comment.title && $scope.comment.content){
+        $scope.comment.published_date = Date.now();
+        $scope.comment.comments = null;
+        $scope.comment.likes = 0;
+        $scope.allcomments.$add($scope.comment);
+        $scope.comment = {};
+      }
+    };
   
+
 }]);
