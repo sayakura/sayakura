@@ -11,7 +11,7 @@
   <body>
     <nav>
       <div class="nav-wrapper   blue-grey darken-4">
-        <a href="#" class="brand-logo center">Kura</a>
+        <a href="#" class="brand-logo center"><span >Kura</span></a>
       </div>
     </nav>
 
@@ -23,7 +23,7 @@
           <img src="img/pic0.png"> 
           <div class="caption center-align">
             <img src="img/kura.jpg" class="selfie hoverable animated"/>
-            <h3 class="white-text" id="name">Kura Peng</h3>
+            <h3 class="white-text animated flip" id="name">Kura Peng</h3>
             <a href="#modal1"><i class="medium material-icons white-text animated" id="contact">email</i></a>
  
      
@@ -71,10 +71,10 @@
       -->
     <div class="container" >
       <div class="card-panel "  ng-controller="blogCtrl">
-         <h5 id="comments"> &nbsp;&nbsp;Comments</h5>
+         <h5 id="comments" > &nbsp;&nbsp;Comments</h5>
 
           <ul class="collection" ng-repeat="post in allcomments | orderBy: '-published_date '">
-             <div class="divider"></div>
+             <div class="divider" id="comment-divider"></div>
             <li class="collection-item " id="posts">
               <p>{{post.author || "Anonymous"}} by <span class="date">{{(post.published_date | date:"MM/dd/yyyy 'at' h:mma") || "unknown time"}}</span></p>
               <a href="#!" class="secondary-content"><i class="material-icons " id="like">thumb_up</i></a>

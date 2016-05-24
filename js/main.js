@@ -15,3 +15,6 @@ $('.lang-logo').hover(function(){
 $('.selfie').hover(function() {
     $(this).toggleClass("rubberBand");
 });
+$('#comments').hover(function() {
+   $("#comment-divider").toggleClass("comment-animation"); 
+});

@@ -48,3 +48,7 @@ h3{
 .lean-overlay{
     opacity: 1;
 }
+.comment-animation{
+    height:2px;
+    background-color:#f44336;
+}
