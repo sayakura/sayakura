@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/materialize.min.css">
     <link rel="stylesheet" href="css/main.css" type="text/css" />
+    <link rel="stylesheet" href="css/animate.css" type="text/css" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     
   <body>
@@ -21,33 +22,44 @@
         <li>
           <img src="img/pic0.png"> 
           <div class="caption center-align">
-            <img src="img/kura.jpg" class="selfie hoverable"/>
+            <img src="img/kura.jpg" class="selfie hoverable animated"/>
             <h3 class="white-text" id="name">Kura Peng</h3>
-            <i class="medium material-icons white-text" id="contact">email</i>
+            <a href="#modal1"><i class="medium material-icons white-text animated" id="contact">email</i></a>
+ 
+     
+             <!-- Modal Structure -->
+            <div id="modal1" class="modal">
+              <div class="modal-content">
+                <h4>Modal Header</h4>
+                <p>A bunch of text</p>
+              </div>
+              <div class="modal-footer">
+                <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
+              </div>
+            </div>
           </div>
         </li>
         </ul>
     </div>
     <div style="height:10px; width:100%;"></div>
-   
-  
+     
     <div class="customdiver" style="height:35px;width:100%"></div>
     <div class="container" >
         <div class="row">
           <div class="col m3 s6" align="center">
-             <img src="img/java.png" class="lang-logo">
+             <img src="img/java.png" class="lang-logo animated">
             <h5 class="programming_language">Java</h5>
           </div>
           <div class="col m3 s6" align="center">
-             <img src="img/python.png" class="lang-logo">
+             <img src="img/python.png" class="lang-logo animated">
             <h5 class="programming_language">Python</h5> 
           </div>
           <div class="col m3 s6" align="center">
-            <img src="img/javascript.png" class="lang-logo">
+            <img src="img/javascript.png" class="lang-logo animated">
             <h5 class="programming_language">JavaScript</h5>
           </div>
           <div class="col m3 s6" align="center">
-            <img src="img/R.png" class="lang-logo">
+            <img src="img/R.png" class="lang-logo animated">
             <h5 class="programming_language">R</h5>
           </div>
         </div>
@@ -129,12 +141,12 @@
     <script src="https://code.jquery.com/jquery-2.2.3.min.js"   integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo="   crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
     <script type="text/javascript" src="js/main.js"></script>
-    <script type="text/javascript" src="js/transit.js"></script>
     <script src="https://cdn.firebase.com/js/client/2.2.1/firebase.js"></script>
     <script src="https://code.angularjs.org/1.4.2/angular.js"></script>
     <script src="https://code.angularjs.org/1.4.2/angular-route.js"></script>
     <script src="https://cdn.firebase.com/libs/angularfire/1.1.3/angularfire.min.js"></script>
    
     <script type="text/javascript" src="js/myapp.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.2.19/css/lightgallery.min.css"></script>
   </body>
 </html>

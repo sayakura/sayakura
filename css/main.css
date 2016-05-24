@@ -33,6 +33,7 @@ body{
 }
 #contact{
     height: auto;
+    cursor: pointer;
 }
 #name{
     font-weight: lighter;
@@ -43,4 +44,7 @@ h3{
 }
 #comments{
     font-weight: lighter;
+}
+.lean-overlay{
+    opacity: 1;
 }
