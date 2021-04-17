@@ -1,10 +1,8 @@
-# I am Kura
-
-My portfolio:
-[Portfolio](http://bit.ly/kurapeng)
-
-Leetcode:
-[Leetcode](https://leetcode.com/midokura/)
-
-Linkedin:
-[Linkedin](https://www.linkedin.com/in/kurapeng/)
+# Kura Peng
+<p align="center">
+  <samp>
+    <a href="https://antfu.me">portfolio</a> .
+    <a href="https://antfu.me/posts">Leetcode</a> .
+    <a href="https://antfu.me/projects">Linkedin</a> .
+  </samp>
+</p>
