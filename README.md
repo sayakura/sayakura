@@ -1,8 +1,11 @@
-# Kura Peng
+<samp>
+  <h1 align="center"> Kura Peng </h1>
+  <p align="center"> Software Engineer </p>
+</samp>
 <p align="center">
   <samp>
-    <a href="https://antfu.me">portfolio</a> .
-    <a href="https://antfu.me/posts">Leetcode</a> .
-    <a href="https://antfu.me/projects">Linkedin</a> .
+    <a href="http://bit.ly/kurapeng">portfolio</a> .
+    <a href="https://leetcode.com/midokura/">Leetcode</a> .
+    <a href="https://www.linkedin.com/in/kurapeng/">Linkedin</a> .
   </samp>
 </p>
