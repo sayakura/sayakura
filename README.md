@@ -4,7 +4,7 @@
 </samp>
 <p align="center">
   <samp>
-    <a href="http://bit.ly/kurapeng">portfolio</a> .
+    <a href="http://bit.ly/kurapeng">Portfolio</a> .
     <a href="https://leetcode.com/midokura/">Leetcode</a> .
     <a href="https://www.linkedin.com/in/kurapeng/">Linkedin</a>
   </samp>
