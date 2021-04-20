@@ -1,9 +1,5 @@
 
 ![image](./image/banner.jpg)
-<samp>
-  <h1 align="center"> Kura Peng </h1>
-  <p align="center" > Software Engineer </p>
-</samp>
 <p align="center">
   <samp>
     <a href="http://sayakura.github.io/">Portfolio</a> .
