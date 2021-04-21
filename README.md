@@ -39,6 +39,10 @@
 
 ![Kura's GitHub stats](https://github-readme-stats.vercel.app/api?username=kura&show_icons=true&theme=buefy&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayakura&layout=compact&theme=buefy)](https://sayakura.github.io/)
 
-[![Kura's weekly breakdown](https://github-readme-stats.vercel.app/api/wakatime?username=sayakura&theme=buefy)](https://sayakura.github.io/)
+<a href="https://sayakura.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayakura&layout=compact&theme=buefy" />
+</a>
+<a href="https://sayakura.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sayakura&theme=buefy" />
+</a>
