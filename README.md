@@ -19,7 +19,10 @@
   </samp>
 </h3>
 <samp>
-  
+
+
+![image](./image/divider.png)
+
 - **Life** ⭐: Learning & Job hunting
 
 
