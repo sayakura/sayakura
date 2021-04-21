@@ -33,7 +33,7 @@
   
 - [Leetcode Contest 237](https://sayakura.github.io/posts/lcwc237/)
  
-</detail>
+</details>
  
 ---
 
