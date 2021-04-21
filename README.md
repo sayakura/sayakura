@@ -48,4 +48,4 @@
 </a>
 
 
-![image](./image/footer_new.png)
+![image](./image/footer.png)
