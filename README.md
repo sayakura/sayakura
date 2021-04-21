@@ -21,7 +21,7 @@
 <samp>
 
 
-![image](./image/divider.png)
+<img align="center" src="./image/divider2.png" />
 
 - **Life** ⭐: Learning & Job hunting
 
