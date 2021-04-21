@@ -41,16 +41,20 @@
 </details>
  
 ---
-
+<!--
 ![Kura's GitHub stats](https://github-readme-stats.vercel.app/api?username=kura&show_icons=true&theme=buefy&include_all_commits=true)
+-->
 
+<a href="https://sayakura.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kura&show_icons=true&theme=buefy&include_all_commits=true" />
+  <!-- 
+  github-readme-stats.vercel.app/api/wakatime?username=sayakura&theme=buefy -->
+</a>
 
 <a href="https://sayakura.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayakura&layout=compact&theme=buefy" />
 </a>
-<a href="https://sayakura.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sayakura&theme=buefy" />
-</a>
+
 
 
 ![image](./image/footer_new.png)
