@@ -46,3 +46,6 @@
 <a href="https://sayakura.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sayakura&theme=buefy" />
 </a>
+
+
+![image](./image/footer.png)
