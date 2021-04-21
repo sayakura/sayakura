@@ -21,7 +21,9 @@
 <samp>
 
 
-<img align="center" src="./image/divider2.png" />
+<p align="center">
+  <img align="center" width="300px" src="./image/divider2.png" />
+</p>
 
 - **Life** ⭐: Learning & Job hunting
 
