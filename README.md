@@ -15,7 +15,7 @@
 <h3 align="center">
   <samp>
     Hello I am Kura!  
-    A Software Engineer 🤖️ from the Bay Area
+    Software Engineer at Google
   </samp>
 </h3>
 <samp>
@@ -31,7 +31,7 @@
 - **Current Project** 📘: [Algorithm](https://github.com/sayakura/AlgoCollection) 
 
 
-- **Leetcode # of Problem Solved** ✅ : Total of **568**     Easy **178**/480 Medium **320**/968 Hard **70**/387
+- **Leetcode # of Problem Solved** ✅ : Total of **619**     Easy **192**/480 Medium **347**/968 Hard **80**/387
   
 <details>
   <summary><samp>Articles</samp></summary>
