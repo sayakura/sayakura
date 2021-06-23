@@ -25,10 +25,10 @@
   <img align="center" width="300px" src="./image/divider2.png" />
 </p>
 
-- **Life** ⭐: Learning & Job hunting
+- **Life** ⭐: Working at Goolge * * *
 
 
-- **Current Project** 📘: [Algorithm](https://github.com/sayakura/AlgoCollection) 
+- **Current Project** 📘: None 
 
 
 - **Leetcode # of Problem Solved** ✅ : Total of **619**     Easy **192**/480 Medium **347**/968 Hard **80**/387
